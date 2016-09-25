@@ -5,6 +5,5 @@ public class RandNumGenerator {
 		int min = 10;
 		int num = (int) (Math.random() * range) + min;
 		System.out.println(num);
-		//This is a change
 	}
 }
